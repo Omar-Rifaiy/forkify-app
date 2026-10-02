@@ -1,0 +1,22 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Recipe Application",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "Omar Refaiy",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^8.2.3",
+    "sass": "^1.105.0",
+    "vite": "^8.3.0"
+  },
+  "dependencies": {
+    "fraction.js": "^5.3.4"
+  }
+}
