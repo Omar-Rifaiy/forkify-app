@@ -4,6 +4,10 @@ A recipe application built with JavaScript, Vite, Sass, and the Forkify API.
 
 Forkify lets users search for recipes, view recipe details, adjust servings, bookmark recipes, and upload their own recipes.
 
+## Live Demo
+
+[View Live Demo](https://forkify-app-phi-indol.vercel.app)
+
 ## Features
 
 - Search for recipes using the Forkify API
