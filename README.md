@@ -301,7 +301,3 @@ The project will continue to evolve as I apply new concepts and improve the arch
 **Omar Rifai**
 
 GitHub: [@Omar-Rifaiy](https://github.com/Omar-Rifaiy)
-
-## Development
-
-This project is actively developed using feature branches and pull requests.
